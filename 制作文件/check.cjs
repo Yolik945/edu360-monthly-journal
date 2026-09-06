@@ -1,0 +1,2 @@
+const {chromium}=require('C:/Users/Administrator/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+(async()=>{let b=await chromium.launch({executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe',headless:true}); let p=await b.newPage(); await p.setContent('<div>render ready</div>'); console.log(await p.title(),await p.locator('div').textContent());await b.close()})()

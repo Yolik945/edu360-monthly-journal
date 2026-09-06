@@ -1,0 +1,10 @@
+const fs = require('fs');
+const path = require('path');
+const target = path.join(__dirname, '../动态夏季刊/app/page.tsx');
+let source = fs.readFileSync(target, 'utf8');
+source = source.replace("import data from './journal-data.json';", "import data from './journal-data.json';\nimport {StoryContent} from './story-content';");
+const start = source.indexOf(' <Sheet open={story}');
+const end = source.indexOf(' <Dialog open={light', start);
+if (start < 0 || end < 0) throw Error('Story boundaries missing');
+source = source.slice(0, start) + ` <Sheet open={story} onOpenChange={setStory}><SheetContent className={\`story-panel theme-\${current?.color||'lime'} \${motion?'motion':'still'}\`} showCloseButton={false}><div className="panel-head story-toolbar"><div><SheetTitle>{current?.kicker}</SheetTitle><SheetDescription>360教育在线 · 2026夏季刊</SheetDescription></div><button className="story-close" onClick={()=>setStory(false)} aria-label="关闭故事"><span>返回主视觉</span><X size={20}/></button></div>{current&&<StoryContent chapter={current} page={page} onPhoto={setLight} onNext={()=>{setStory(false);setPage(p=>p===data.length?0:p+1)}}/>}</SheetContent></Sheet>\n` + source.slice(end);
+fs.writeFileSync(target, source);

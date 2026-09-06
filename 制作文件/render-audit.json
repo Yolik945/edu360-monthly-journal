@@ -1,0 +1,527 @@
+{
+  "width": 1080,
+  "height": 54918,
+  "images": [
+    {
+      "loaded": true
+    },
+    {
+      "id": "5",
+      "loaded": true
+    },
+    {
+      "id": "1",
+      "loaded": true
+    },
+    {
+      "id": "2",
+      "loaded": true
+    },
+    {
+      "id": "3",
+      "loaded": true
+    },
+    {
+      "id": "4",
+      "loaded": true
+    },
+    {
+      "id": "7",
+      "loaded": true
+    },
+    {
+      "id": "6",
+      "loaded": true
+    },
+    {
+      "id": "8",
+      "loaded": true
+    },
+    {
+      "id": "9",
+      "loaded": true
+    },
+    {
+      "id": "10",
+      "loaded": true
+    },
+    {
+      "id": "12",
+      "loaded": true
+    },
+    {
+      "id": "13",
+      "loaded": true
+    },
+    {
+      "id": "11",
+      "loaded": true
+    },
+    {
+      "id": "15",
+      "loaded": true
+    },
+    {
+      "id": "16",
+      "loaded": true
+    },
+    {
+      "id": "14",
+      "loaded": true
+    },
+    {
+      "id": "17",
+      "loaded": true
+    },
+    {
+      "id": "18",
+      "loaded": true
+    },
+    {
+      "id": "20",
+      "loaded": true
+    },
+    {
+      "id": "19",
+      "loaded": true
+    },
+    {
+      "id": "21",
+      "loaded": true
+    },
+    {
+      "id": "22",
+      "loaded": true
+    },
+    {
+      "id": "25",
+      "loaded": true
+    },
+    {
+      "id": "23",
+      "loaded": true
+    },
+    {
+      "id": "24",
+      "loaded": true
+    },
+    {
+      "id": "27",
+      "loaded": true
+    },
+    {
+      "id": "26",
+      "loaded": true
+    },
+    {
+      "id": "28",
+      "loaded": true
+    },
+    {
+      "id": "29",
+      "loaded": true
+    },
+    {
+      "id": "30",
+      "loaded": true
+    },
+    {
+      "id": "31",
+      "loaded": true
+    },
+    {
+      "id": "32",
+      "loaded": true
+    },
+    {
+      "id": "33",
+      "loaded": true
+    },
+    {
+      "id": "39",
+      "loaded": true
+    },
+    {
+      "id": "34",
+      "loaded": true
+    },
+    {
+      "id": "37",
+      "loaded": true
+    },
+    {
+      "id": "35",
+      "loaded": true
+    },
+    {
+      "id": "36",
+      "loaded": true
+    },
+    {
+      "id": "38",
+      "loaded": true
+    },
+    {
+      "id": "40",
+      "loaded": true
+    },
+    {
+      "id": "42",
+      "loaded": true
+    },
+    {
+      "id": "41",
+      "loaded": true
+    },
+    {
+      "id": "43",
+      "loaded": true
+    },
+    {
+      "id": "44",
+      "loaded": true
+    },
+    {
+      "id": "45",
+      "loaded": true
+    },
+    {
+      "id": "46",
+      "loaded": true
+    },
+    {
+      "id": "47",
+      "loaded": true
+    },
+    {
+      "id": "48",
+      "loaded": true
+    },
+    {
+      "id": "49",
+      "loaded": true
+    },
+    {
+      "id": "52",
+      "loaded": true
+    },
+    {
+      "id": "51",
+      "loaded": true
+    },
+    {
+      "id": "50",
+      "loaded": true
+    },
+    {
+      "id": "55",
+      "loaded": true
+    },
+    {
+      "id": "53",
+      "loaded": true
+    },
+    {
+      "id": "54",
+      "loaded": true
+    },
+    {
+      "id": "57",
+      "loaded": true
+    },
+    {
+      "id": "58",
+      "loaded": true
+    },
+    {
+      "id": "56",
+      "loaded": true
+    },
+    {
+      "id": "59",
+      "loaded": true
+    },
+    {
+      "id": "60",
+      "loaded": true
+    },
+    {
+      "id": "61",
+      "loaded": true
+    },
+    {
+      "id": "62",
+      "loaded": true
+    },
+    {
+      "id": "64",
+      "loaded": true
+    },
+    {
+      "id": "65",
+      "loaded": true
+    },
+    {
+      "id": "63",
+      "loaded": true
+    },
+    {
+      "id": "66",
+      "loaded": true
+    },
+    {
+      "id": "67",
+      "loaded": true
+    },
+    {
+      "id": "70",
+      "loaded": true
+    },
+    {
+      "id": "68",
+      "loaded": true
+    },
+    {
+      "id": "69",
+      "loaded": true
+    },
+    {
+      "id": "71",
+      "loaded": true
+    },
+    {
+      "id": "72",
+      "loaded": true
+    },
+    {
+      "id": "73",
+      "loaded": true
+    },
+    {
+      "id": "74",
+      "loaded": true
+    },
+    {
+      "id": "75",
+      "loaded": true
+    },
+    {
+      "id": "76",
+      "loaded": true
+    },
+    {
+      "id": "110",
+      "loaded": true
+    },
+    {
+      "id": "77",
+      "loaded": true
+    },
+    {
+      "id": "79",
+      "loaded": true
+    },
+    {
+      "id": "80",
+      "loaded": true
+    },
+    {
+      "id": "83",
+      "loaded": true
+    },
+    {
+      "id": "78",
+      "loaded": true
+    },
+    {
+      "id": "84",
+      "loaded": true
+    },
+    {
+      "id": "81",
+      "loaded": true
+    },
+    {
+      "id": "82",
+      "loaded": true
+    },
+    {
+      "id": "85",
+      "loaded": true
+    },
+    {
+      "id": "86",
+      "loaded": true
+    },
+    {
+      "id": "89",
+      "loaded": true
+    },
+    {
+      "id": "87",
+      "loaded": true
+    },
+    {
+      "id": "88",
+      "loaded": true
+    },
+    {
+      "id": "90",
+      "loaded": true
+    },
+    {
+      "id": "91",
+      "loaded": true
+    },
+    {
+      "id": "92",
+      "loaded": true
+    },
+    {
+      "id": "93",
+      "loaded": true
+    },
+    {
+      "id": "94",
+      "loaded": true
+    },
+    {
+      "id": "95",
+      "loaded": true
+    },
+    {
+      "id": "96",
+      "loaded": true
+    },
+    {
+      "id": "97",
+      "loaded": true
+    },
+    {
+      "id": "99",
+      "loaded": true
+    },
+    {
+      "id": "98",
+      "loaded": true
+    },
+    {
+      "id": "100",
+      "loaded": true
+    },
+    {
+      "id": "101",
+      "loaded": true
+    },
+    {
+      "id": "102",
+      "loaded": true
+    },
+    {
+      "id": "103",
+      "loaded": true
+    },
+    {
+      "id": "104",
+      "loaded": true
+    },
+    {
+      "id": "105",
+      "loaded": true
+    },
+    {
+      "id": "106",
+      "loaded": true
+    },
+    {
+      "id": "107",
+      "loaded": true
+    },
+    {
+      "id": "108",
+      "loaded": true
+    },
+    {
+      "id": "109",
+      "loaded": true
+    }
+  ],
+  "sections": [
+    {
+      "id": "cover",
+      "y": 0,
+      "height": 1780
+    },
+    {
+      "id": "intro",
+      "y": 1780,
+      "height": 912
+    },
+    {
+      "id": "summit",
+      "y": 2692,
+      "height": 4725
+    },
+    {
+      "id": "roadshow",
+      "y": 7417,
+      "height": 6425
+    },
+    {
+      "id": "international",
+      "y": 13842,
+      "height": 3485
+    },
+    {
+      "id": "midyear",
+      "y": 17327,
+      "height": 4961
+    },
+    {
+      "id": "live",
+      "y": 22288,
+      "height": 4351
+    },
+    {
+      "id": "kol",
+      "y": 26639,
+      "height": 3902
+    },
+    {
+      "id": "trainee",
+      "y": 30541,
+      "height": 2525
+    },
+    {
+      "id": "sport",
+      "y": 33066,
+      "height": 2976
+    },
+    {
+      "id": "travel",
+      "y": 36042,
+      "height": 9002
+    },
+    {
+      "id": "goods",
+      "y": 45044,
+      "height": 3006
+    },
+    {
+      "id": "people",
+      "y": 48051,
+      "height": 3066
+    },
+    {
+      "id": "charity",
+      "y": 51117,
+      "height": 2596
+    },
+    {
+      "id": "end",
+      "y": 53713,
+      "height": 1205
+    }
+  ],
+  "overflows": []
+}

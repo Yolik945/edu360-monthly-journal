@@ -1,0 +1,24 @@
+{
+  "project_id": "appgprj_6a9c7681a2388191bd5e502763dbf996",
+  "version_id": "appgprj_6a9c7681a2388191bd5e502763dbf996~appgver_424bafc9a30881918adc8beeb7e73f32",
+  "commit_sha": "ad3024f28c3e2b539a9beb7dd940df9686c5ccca",
+  "status": "published_succeeded",
+  "live_url": "https://edu360-summer-2026-journal.abloom-frost-0957.chatgpt.site",
+  "access": "public",
+  "unauthenticated_http_status": 200,
+  "travel_first_three_photos": [
+    76,
+    110,
+    77
+  ],
+  "total_photos": 110,
+  "validation": [
+    "Production build passed",
+    "TypeScript passed",
+    "Changed application files lint passed",
+    "Static desktop and mobile story previews reviewed",
+    "Both print renderers report no text overflow",
+    "Second print source changed only for photo insertion and photo-count audit"
+  ],
+  "deployment_id": "appgdep_6a9cd1918e1c8191ae56ecbd3fcc998e"
+}
